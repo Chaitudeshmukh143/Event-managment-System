@@ -35,5 +35,5 @@ A web-based application built using Java Servlets, JSP, JDBC, and Oracle Databas
 
 ---
 
-## 🔧 Project Structure
+
 
